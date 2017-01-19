@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensApp</string>
+    <string name="select_any">SELECT ANY :</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">light</string>
+    <string name="light2">light</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="light2_sensor">Light Sensor</string>
+</resources>
